@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+var i = document.createElement('input');
+i.setAttribute('type', 'url');
+return i.type !== 'text';
+]]></content>
+	<tabTrigger>test-input-url</tabTrigger>
+	<description>input url</description>
+	<scope>source.js</scope>
+</snippet>

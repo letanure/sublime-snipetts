@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+var i = document.createElement('input');
+i.setAttribute('type', 'week');
+return i.type !== 'text';
+]]></content>
+	<tabTrigger>test-input-week</tabTrigger>
+	<description>input week</description>
+	<scope>source.js</scope>
+</snippet>
