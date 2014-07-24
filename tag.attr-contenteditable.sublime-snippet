@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return 'isContentEditable' in document.createElement('span');
+]]></content>
+	<tabTrigger>test-contentEditable</tabTrigger>
+	<description>attribute contentEditable</description>
+	<scope>source.js</scope>
+</snippet>
