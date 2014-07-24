@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return 'type' in document.createElement('command');
+]]></content>
+	<tabTrigger>test-command</tabTrigger>
+	<description>command tag</description>
+	<scope>source.js</scope>
+</snippet>
