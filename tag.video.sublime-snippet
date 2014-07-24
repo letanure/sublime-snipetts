@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return !!document.createElement('video').canPlayType;
+]]></content>
+	<tabTrigger>test-video</tabTrigger>
+	<description>tag video</description>
+	<scope>source.js</scope>
+</snippet>

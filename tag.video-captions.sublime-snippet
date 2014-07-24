@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return 'src' in document.createElement('track');
+]]></content>
+	<tabTrigger>test-video-captions</tabTrigger>
+	<description>tag video captions</description>
+	<scope>source.js</scope>
+</snippet>
