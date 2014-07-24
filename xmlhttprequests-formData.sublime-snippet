@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return !!window.FormData;
+]]></content>
+	<tabTrigger>test-xmlreq-form-data</tabTrigger>
+	<description>XMLHttpRequest: send as form data</description>
+	<scope>source.js</scope>
+</snippet>

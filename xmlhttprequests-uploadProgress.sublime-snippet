@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return "upload" in new XMLHttpRequest;
+]]></content>
+	<tabTrigger>test-xmlreq-upload-progress</tabTrigger>
+	<description>XMLHttpRequest: upload progress events</description>
+	<scope>source.js</scope>
+</snippet>
