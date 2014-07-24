@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return 'datetime' in document.createElement('time');
+]]></content>
+	<tabTrigger>test-time</tabTrigger>
+	<description>tag time</description>
+	<scope>source.js</scope>
+</snippet>
