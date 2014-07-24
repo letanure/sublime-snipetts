@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return !!window.applicationCache;
+]]></content>
+	<tabTrigger>test-applicationCache</tabTrigger>
+	<description>Offline web applications / Application Cache</description>
+	<scope>source.js</scope>
+</snippet>
