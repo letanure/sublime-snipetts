@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return !!window.Worker;
+]]></content>
+	<tabTrigger>test-worker</tabTrigger>
+	<description>Web Workers</description>
+	<scope>source.js</scope>
+</snippet>
