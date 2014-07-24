@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return 'options' in document.createElement('datalist');
+]]></content>
+	<tabTrigger>test-datalist</tabTrigger>
+	<description>command datalist</description>
+	<scope>source.js</scope>
+</snippet>
