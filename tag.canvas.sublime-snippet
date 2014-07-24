@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return !!document.createElement('canvas').getContext;
+]]></content>
+	<tabTrigger>testcanvas</tabTrigger>
+	<description>canvas tag</description>
+	<scope>source.js</scope>
+</snippet>

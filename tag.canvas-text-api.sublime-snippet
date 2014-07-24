@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+var c = document.createElement('canvas');
+return c.getContext && typeof c.getContext('2d').fillText == 'function';
+]]></content>
+	<tabTrigger>test-canvas-text-api</tabTrigger>
+	<description>canvas tag - text API</description>
+	<scope>source.js</scope>
+</snippet>
