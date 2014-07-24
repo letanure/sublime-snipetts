@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+var a = document.createElement('audio');
+return !!(a.canPlayType && a.canPlayType('audio/mpeg;').replace(/no/, ''));
+]]></content>
+	<tabTrigger>testaudiomp3</tabTrigger>
+	<description>audio in MP3 format</description>
+	<scope>source.js</scope>
+</snippet>

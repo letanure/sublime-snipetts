@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return !!document.createElement('audio').canPlayType;
+]]></content>
+	<tabTrigger>testaudio</tabTrigger>
+	<description>audio</description>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+var a = document.createElement('audio');
+return !!(a.canPlayType && a.canPlayType('audio/wav; codecs="1"').replace(/no/, ''));
+]]></content>
+	<tabTrigger>testaudiowav</tabTrigger>
+	<description>audio in WAV format</description>
+	<scope>source.js</scope>
+</snippet>
