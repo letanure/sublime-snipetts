@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+var a = document.createElement('audio');
+return !!(a.canPlayType && a.canPlayType('audio/ogg; codecs="vorbis"').replace(/no/, ''));
+]]></content>
+	<tabTrigger>testaudiovorbis</tabTrigger>
+	<description>audio in Vorbis format</description>
+	<scope>source.js</scope>
+</snippet>

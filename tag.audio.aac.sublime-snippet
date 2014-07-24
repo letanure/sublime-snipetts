@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+var a = document.createElement('audio');
+return !!(a.canPlayType && a.canPlayType('audio/mp4; codecs="mp4a.40.2"').replace(/no/, ''));
+]]></content>
+	<tabTrigger>testaudioaac</tabTrigger>
+	<description>audio in AAC format</description>
+	<scope>source.js</scope>
+</snippet>
