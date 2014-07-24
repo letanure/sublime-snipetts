@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return 'poster' in document.createElement('video');
+]]></content>
+	<tabTrigger>test-video-poster</tabTrigger>
+	<description>tag video poster</description>
+	<scope>source.js</scope>
+</snippet>

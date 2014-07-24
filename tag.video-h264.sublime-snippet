@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+var v = document.createElement('video');
+return !!(v.canPlayType && v.canPlayType('video/mp4; codecs="avc1.42E01E, mp4a.40.2"').replace(/no/, ''));
+]]></content>
+	<tabTrigger>test-video-h264</tabTrigger>
+	<description>tag video H.264 format</description>
+	<scope>source.js</scope>
+</snippet>

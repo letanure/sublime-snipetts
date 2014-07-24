@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+var v = document.createElement('video');
+return !!(v.canPlayType && v.canPlayType('video/ogg; codecs="theora"').replace(/no/, ''));
+]]></content>
+	<tabTrigger>test-video-theora</tabTrigger>
+	<description>tag video Theora format</description>
+	<scope>source.js</scope>
+</snippet>
