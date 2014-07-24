@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return 'value' in document.createElement('output');
+]]></content>
+	<tabTrigger>test-output</tabTrigger>
+	<description>tag output</description>
+	<scope>source.js</scope>
+</snippet>
