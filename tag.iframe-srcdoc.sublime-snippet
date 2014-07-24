@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return 'srcdoc' in document.createElement('iframe');
+]]></content>
+	<tabTrigger>test-iframe-srcdoc</tabTrigger>
+	<description>iframe srcdoc</description>
+	<scope>source.js</scope>
+</snippet>
