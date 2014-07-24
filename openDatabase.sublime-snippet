@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return !!window.openDatabase;
+]]></content>
+	<tabTrigger>test-webSQL</tabTrigger>
+	<description>Web SQL Database</description>
+	<scope>source.js</scope>
+</snippet>
