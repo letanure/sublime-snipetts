@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return !!window.WebSocket;
+]]></content>
+	<tabTrigger>test-webSocket</tabTrigger>
+	<description>WebSocket</description>
+	<scope>source.js</scope>
+</snippet>
