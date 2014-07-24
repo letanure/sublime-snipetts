@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return 'noValidate' in document.createElement('form');
+]]></content>
+	<tabTrigger>test-form</tabTrigger>
+	<description>form constraint validation</description>
+	<scope>source.js</scope>
+</snippet>
