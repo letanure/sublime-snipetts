@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return 'sandbox' in document.createElement('iframe');
+]]></content>
+	<tabTrigger>test-iframe-sandbox</tabTrigger>
+	<description>iframe sandbox</description>
+	<scope>source.js</scope>
+</snippet>
