@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return typeof FileReader != 'undefined';
+]]></content>
+	<tabTrigger>test-fileApi</tabTrigger>
+	<description>File API</description>
+	<scope>source.js</scope>
+</snippet>

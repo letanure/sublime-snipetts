@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+try {
+  return 'localStorage' in window && window['localStorage'] !== null;
+} catch(e) {
+  return false;
+}
+]]></content>
+	<tabTrigger>test-local-storage</tabTrigger>
+	<description>Local Storage API</description>
+	<scope>source.js</scope>
+</snippet>

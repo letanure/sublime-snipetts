@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return !!(window.history && window.history.pushState);
+]]></content>
+	<tabTrigger>test-history</tabTrigger>
+	<description>History API</description>
+	<scope>source.js</scope>
+</snippet>

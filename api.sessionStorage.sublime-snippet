@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+try {
+  return 'sessionStorage' in window && window['sessionStorage'] !== null;
+} catch(e) {
+  return false;
+}
+]]></content>
+	<tabTrigger>test-sessionStorage</tabTrigger>
+	<description>Session Storage</description>
+	<scope>source.js</scope>
+</snippet>

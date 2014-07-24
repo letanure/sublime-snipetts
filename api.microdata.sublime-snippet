@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return !!document.getItems;
+]]></content>
+	<tabTrigger>test-microdata</tabTrigger>
+	<description>Microdata API</description>
+	<scope>source.js</scope>
+</snippet>
