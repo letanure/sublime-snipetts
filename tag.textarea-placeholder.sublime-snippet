@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return 'placeholder' in document.createElement('textarea');
+]]></content>
+	<tabTrigger>test-textarea-placeholder</tabTrigger>
+	<description>textarea placeholder</description>
+	<scope>source.js</scope>
+</snippet>

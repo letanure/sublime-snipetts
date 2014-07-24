@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+var i = document.createElement('input');
+i.setAttribute('type', 'datetime');
+return i.type !== 'text';
+]]></content>
+	<tabTrigger>test-input-datetime</tabTrigger>
+	<description>input datetime</description>
+	<scope>source.js</scope>
+</snippet>
