@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return 'placeholder' in document.createElement('input');
+]]></content>
+	<tabTrigger>test-input-placeholder</tabTrigger>
+	<description>input placeholder</description>
+	<scope>source.js</scope>
+</snippet>

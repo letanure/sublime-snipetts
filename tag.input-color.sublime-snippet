@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+var i = document.createElement('input');
+i.setAttribute('type', 'color');
+return i.type !== 'text';
+]]></content>
+	<tabTrigger>test-input-color</tabTrigger>
+	<description>input color</description>
+	<scope>source.js</scope>
+</snippet>

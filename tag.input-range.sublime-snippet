@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+var i = document.createElement('input');
+i.setAttribute('type', 'range');
+return i.type !== 'text';
+]]></content>
+	<tabTrigger>test-input-range</tabTrigger>
+	<description>input range</description>
+	<scope>source.js</scope>
+</snippet>

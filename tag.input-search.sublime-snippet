@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+var i = document.createElement('input');
+i.setAttribute('type', 'search');
+return i.type !== 'text';
+]]></content>
+	<tabTrigger>test-input-search</tabTrigger>
+	<description>input search</description>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+var i = document.createElement('input');
+i.setAttribute('type', 'tel');
+return i.type !== 'text';
+]]></content>
+	<tabTrigger>test-input-tel</tabTrigger>
+	<description>input tel</description>
+	<scope>source.js</scope>
+</snippet>

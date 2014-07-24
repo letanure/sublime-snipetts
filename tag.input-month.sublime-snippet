@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+var i = document.createElement('input');
+i.setAttribute('type', 'month');
+return i.type !== 'text';
+]]></content>
+	<tabTrigger>test-input-month</tabTrigger>
+	<description>input month</description>
+	<scope>source.js</scope>
+</snippet>

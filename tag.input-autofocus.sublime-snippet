@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return 'autofocus' in document.createElement('input');
+]]></content>
+	<tabTrigger>test-input-autofocus</tabTrigger>
+	<description>input autofocus</description>
+	<scope>source.js</scope>
+</snippet>
