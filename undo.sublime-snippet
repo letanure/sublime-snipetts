@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return typeof UndoManager !== 'undefined';
+]]></content>
+	<tabTrigger>test-undo</tabTrigger>
+	<description>UndoManager</description>
+	<scope>source.js</scope>
+</snippet>
