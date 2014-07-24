@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return typeof EventSource !== 'undefined';
+]]></content>
+	<tabTrigger>test-eventSource</tabTrigger>
+	<description>Server-sent events</description>
+	<scope>source.js</scope>
+</snippet>
