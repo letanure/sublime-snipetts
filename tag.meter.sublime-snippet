@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return 'value' in document.createElement('meter');
+]]></content>
+	<tabTrigger>test-meter</tabTrigger>
+	<description>tag meter</description>
+	<scope>source.js</scope>
+</snippet>
