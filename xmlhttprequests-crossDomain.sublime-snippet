@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return "withCredentials" in new XMLHttpRequest;
+]]></content>
+	<tabTrigger>test-xmlreq-cross</tabTrigger>
+	<description>XMLHttpRequest: cross-domain requests</description>
+	<scope>source.js</scope>
+</snippet>
