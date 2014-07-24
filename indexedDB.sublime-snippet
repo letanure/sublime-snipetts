@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return !!window.indexedDB;
+]]></content>
+	<tabTrigger>test-indexedDB</tabTrigger>
+	<description>indexedDB</description>
+	<scope>source.js</scope>
+</snippet>
