@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return !!(document.createElementNS && document.createElementNS('http://www.w3.org/2000/svg', 'svg').createSVGRect);
+]]></content>
+	<tabTrigger>test-svg</tabTrigger>
+	<description>SVG</description>
+	<scope>source.js</scope>
+</snippet>

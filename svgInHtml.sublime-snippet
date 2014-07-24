@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+var e = document.createElement('div');
+e.innerHTML = '<svg></svg>';
+return !!(window.SVGSVGElement && e.firstChild instanceof window.SVGSVGElement);
+]]></content>
+	<tabTrigger>test-svghtml</tabTrigger>
+	<description>SVG in text/html</description>
+	<scope>source.js</scope>
+</snippet>
