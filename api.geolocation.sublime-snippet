@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return !!navigator.geolocation;
+]]></content>
+	<tabTrigger>test-geolocation</tabTrigger>
+	<description>Geolocation API</description>
+	<scope>source.js</scope>
+</snippet>
