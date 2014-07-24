@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return 'open' in document.createElement('details');
+]]></content>
+	<tabTrigger>test-details</tabTrigger>
+	<description>command details</description>
+	<scope>source.js</scope>
+</snippet>
