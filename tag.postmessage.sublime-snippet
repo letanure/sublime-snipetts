@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return !!window.postMessage;
+]]></content>
+	<tabTrigger>test-postMessage</tabTrigger>
+	<description>Cross-document messaging</description>
+	<scope>source.js</scope>
+</snippet>
