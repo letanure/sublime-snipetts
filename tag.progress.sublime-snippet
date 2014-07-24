@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return 'value' in document.createElement('progress');
+]]></content>
+	<tabTrigger>test-progress</tabTrigger>
+	<description>tag progress</description>
+	<scope>source.js</scope>
+</snippet>
