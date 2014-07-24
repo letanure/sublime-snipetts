@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return 'draggable' in document.createElement('span');
+]]></content>
+	<tabTrigger>test-draggable</tabTrigger>
+	<description>Drag-and-drop</description>
+	<scope>source.js</scope>
+</snippet>
